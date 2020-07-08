@@ -1,5 +1,4 @@
 # Credit score reliability analysis
 
-* Objectives: perform the analysis of demographic information, find patterns which influence the rate of loan return
-* Data: in Russian
-* Methods: Data Preprocessing, Lemmatization
+* Objectives: make data preprocessing, perform the analysis of demographic information, find patterns which influence the rate of loan return
+* Methods: Data Preprocessing, Lemmatization, Categorization
